@@ -1,2 +1,2 @@
-#A static web
-##一个静态网页练习
+A static web
+一个静态网页练习
